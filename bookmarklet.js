@@ -1,1 +1,3 @@
-alert('Hello World!')
+(function() {
+  alert('Hello World!')
+}).call(this);
